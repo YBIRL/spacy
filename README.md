@@ -1,6 +1,6 @@
 # spacy
 
-1)In cmd run "pip install spacy" and "python -m spacy download ru_core_news_sm"
+ 1.In cmd run "pip install spacy" and "python -m spacy download ru_core_news_sm"
 
 2) Run "create_DataTrain.py"
    
