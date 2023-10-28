@@ -4,10 +4,10 @@
 
 2) Run "create_DataTrain.py"
    
-4) After running the process above you will see a file named "train.spacy"
+3) After running the process above you will see a file named "train.spacy"
    
-6) Change "config.cfg" if required
+4) Change "config.cfg" if required
    
-8) In cmd run "python -m spacy train config.cfg --output ./output --paths.train ./train.spacy --paths.dev ./train.spacy" (note: config and training files should be in the same folder)
+5) In cmd run "python -m spacy train config.cfg --output ./output --paths.train ./train.spacy --paths.dev ./train.spacy" (note: config and training files should be in the same folder)
    
-10) After training process you can see the results by running "test.py"
+6) After training process you can see the results by running "test.py"
